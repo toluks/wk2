@@ -1,0 +1,29 @@
+main > section p{
+    color: aqua;
+}
+
+main p{
+    color: purple;
+}
+
+
+*{ 
+   color: blue;
+
+}
+
+*{
+    color: green;
+}
+
+h2, h3{
+    background-color: black;
+}
+
+h2 + h3{
+    background-color: coral;
+}
+
+h2 ~*{
+    background-color: blue;
+}

@@ -1,0 +1,17 @@
+h2{
+    color: crimson;
+}
+
+li > time{
+    background-color: blue;
+
+}
+
+em, strong{
+    color: blue;
+
+}
+
+dd *{
+    background-color: cyan;
+}
